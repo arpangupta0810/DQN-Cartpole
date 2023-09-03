@@ -1,2 +1,2 @@
-# Earthquake-prediction-model
-earthquake prediction model
+# DQN Cartpole
+solving openai problem using reinforcment learning
