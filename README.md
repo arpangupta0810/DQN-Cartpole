@@ -1,2 +1,2 @@
 # DQN Cartpole
-solving openai problem using reinforcment learning
+solving openai cartpole problem using reinforcment learning
